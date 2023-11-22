@@ -13,7 +13,7 @@ When I'm not immersed in the coding realm, you'll find me exploring the vibrant 
 | ------------- | ------------- |-->
 
 <!-- ------------------------------- -->
-|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pewilliam&theme=swift)  |  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=switft&show_icons=true) |
+|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pewilliam&theme=swift)  |  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pewilliam&theme=swift&show_icons=true) |
 | ------------- | ------------- |
 <!-- ------------------------------- -->
 
