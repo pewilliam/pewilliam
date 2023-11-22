@@ -52,4 +52,4 @@ When I'm not immersed in the coding realm, you'll find me exploring the vibrant 
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/pewilliam)
 </div>
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=30A14E&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0059c1&height=120&section=footer"/>
