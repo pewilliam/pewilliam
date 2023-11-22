@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=25aff3&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0059c1&height=120&section=header"/>
 
 **`Digital Craftsman (Developer/Gamer)`**
 
@@ -13,7 +13,7 @@ When I'm not immersed in the coding realm, you'll find me exploring the vibrant 
 | ------------- | ------------- |-->
 
 <!-- ------------------------------- -->
-|![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pewilliam&theme=dracula)  |  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pewilliam&layout=compact&langs_count=10&theme=dracula&hide=Jupyter%20Notebook,CMake) |
+|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pewilliam&theme=aura_dark)  |  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pewilliam&layout=compact&langs_count=10&theme=dracula&hide=Jupyter%20Notebook,CMake) |
 | ------------- | ------------- |
 <!-- ------------------------------- -->
 
