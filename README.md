@@ -24,11 +24,11 @@ When I'm not immersed in the coding realm, you'll find me exploring the vibrant 
   <!--<img align="right" alt="Eri-GIF" height="128" width="128" src="https://cdn.discordapp.com/attachments/727827658964205599/873772799464988732/final.gif">-->
   
 ## LANGUAGES & FRAMEWORKS
+[![C](https://img.shields.io/badge/C-346AD6?style=for-the-badge&logo=c&logoColor=white)](https://github.com/pewilliam)
+[![C++](https://img.shields.io/badge/Cpp-2B9FFA?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/pewilliam)
 [![C#](https://img.shields.io/badge/C%23-8C3DD1?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/pewilliam)
 [![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://github.com/pewilliam)
 [![ASP.NET](https://img.shields.io/badge/ASPNET-512BD4?style=for-the-badge&logo=asp&logoColor=white)](https://github.com/pewilliam)
-[![C](https://img.shields.io/badge/C-346AD6?style=for-the-badge&logo=c&logoColor=white)](https://github.com/pewilliam)
-[![C++](https://img.shields.io/badge/Cpp-2B9FFA?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/pewilliam)
 [![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/pewilliam)
 [![Python](https://img.shields.io/badge/python-F0E91F?style=for-the-badge&logo=python&logoColor=black)](https://github.com/pewilliam)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/pewilliam)
