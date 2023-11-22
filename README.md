@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BD93F9&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=25aff3&height=120&section=header"/>
 
 **`Digital Craftsman (Developer/Gamer)`**
 
