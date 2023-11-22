@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff7372&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2b9ffa&height=120&section=header"/>
 
 **`Digital Craftsman (Developer/Gamer)`**
 
@@ -13,7 +13,7 @@ When I'm not immersed in the coding realm, you'll find me exploring the vibrant 
 | ------------- | ------------- |-->
 
 <!-- ------------------------------- -->
-|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pewilliam&theme=aura_dark)  |  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pewilliam&layout=compact&langs_count=10&theme=dracula&hide=Jupyter%20Notebook,CMake) |
+|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pewilliam&theme=swift)  |  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=switft&show_icons=true) |
 | ------------- | ------------- |
 <!-- ------------------------------- -->
 
@@ -52,4 +52,4 @@ When I'm not immersed in the coding realm, you'll find me exploring the vibrant 
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/pewilliam)
 </div>
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff7372&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2b9ffa&height=120&section=footer"/>
