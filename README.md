@@ -13,7 +13,7 @@ When I'm not immersed in the coding realm, you'll find me exploring the vibrant 
 | ------------- | ------------- |-->
 
 <!-- ------------------------------- -->
-|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pewilliam&theme=swift)  |  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pewilliam&layout=compact&langs_count=10&theme=swift&hide=Jupyter%20Notebook,CMake) |
+|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pewilliam&theme=algolia)  |  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pewilliam&layout=compact&langs_count=10&theme=algolia&hide=Jupyter%20Notebook,CMake) |
 | ------------- | ------------- |
 <!-- ------------------------------- -->
 
