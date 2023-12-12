@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2b9ffa&height=120&section=header"/>
 
-                                                       **`Digital Craftsman (Developer/Gamer)`**
+**`Digital Craftsman (Developer/Gamer)`**
 
 Hey there! 👋 I'm a passionate full-stack developer that's always happy to learn new things and have new ideas. Currently pursuing my degree in Information Systems at UFS (Federal University of Sergipe), I thrive on the entire process of bringing ideas to life.
 When I'm not immersed in the coding realm, you'll find me exploring the vibrant world of video games. It's not just a pastime for me; it's a source of inspiration and creativity that often finds its way into my projects.
